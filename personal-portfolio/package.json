@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.4"
+    "@types/react-transition-group": "^4.4.10"
   }
 }
