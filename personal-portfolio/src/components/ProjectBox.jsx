@@ -5,7 +5,8 @@ import { CgFileDocument } from "react-icons/cg";
 
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
-    APODDesc: "Daily...",
+    APODDesc:
+      "This project is a webpage inspired by NASA's Astronomy Picture of the Day. It displays the daily featured image or photograph of our universe along with a brief explanation written by a professional astronomer.",
     APODGithub:
       "https://github.com/belarminojunior/astronomy-picture-of-the-day",
     APODWebsite: "https://astronomy-picture-of-the-day-wine.vercel.app/",

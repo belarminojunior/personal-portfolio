@@ -32,7 +32,7 @@ function App() {
           <SyncLoader
             color={"#011c38"}
             loading={true}
-            size={200}
+            size={30}
             aria-label="Loading Spinner"
             data-testid="loader"
           />

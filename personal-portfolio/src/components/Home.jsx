@@ -30,7 +30,7 @@ const Home = () => {
           </Link>
         </div>
         <Tilt>
-          <img className="rounded-full shadow-lg" src={Avatar} alt="Avatar" />
+          <img src={Avatar} alt="Avatar" />
         </Tilt>
       </div>
     </div>

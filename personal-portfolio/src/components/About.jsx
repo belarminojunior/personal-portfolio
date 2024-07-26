@@ -24,7 +24,7 @@ const About = () => {
           meus conhecimentos sobre <b>CyberSecurity</b>.
         </p>
 
-        <a href="Resume.pdf" download className="resume-btn">
+        <a href="my-resume.pdf" download className="resume-btn">
           Download Resume <FaFileDownload />
         </a>
       </div>

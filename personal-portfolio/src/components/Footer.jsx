@@ -11,7 +11,7 @@ const Footer = () => {
       <h4>Copyright &copy; {YEAR} | All Rights Reserved.</h4>
       <div className="footerLinks">
         <a
-          href="https://github.com/belarminojr"
+          href="https://github.com/belarminojunior"
           target="_blank"
           rel="noreferrer"
         >
